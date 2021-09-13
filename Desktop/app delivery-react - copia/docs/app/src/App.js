@@ -62,11 +62,11 @@ function App() {
       <Switch/>
   
       <Route path='/app-dakonburgers' exact component={Home}/>
-      <Route path='/app-dakonburgers/Hamburguesas'  component={Hamburgers} />
-      <Route path='/app-dakonburgers/CombosHamburguesas' component={Burgerscombos}/>
-      <Route path='/app-dakonburgers/Chorizos'  component={Sausages} />
-      <Route path='/app-dakonburgers/Especiales'  component={Specials} />
-      <Route path='/app-dakonburgers/Bebidas'  component={Drinks} />
+      <Route path='/Hamburguesas'  component={Hamburgers} />
+      <Route path='/CombosHamburguesas' component={Burgerscombos}/>
+      <Route path='/Chorizos'  component={Sausages} />
+      <Route path='/Especiales'  component={Specials} />
+      <Route path='/Bebidas'  component={Drinks} />
       <ShoppingCart/>
       
        
