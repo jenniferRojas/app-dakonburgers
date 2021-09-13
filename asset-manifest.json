@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/app-dakonburgers/static/js/main.ed663a80.chunk.js",
-    "main.js.map": "/app-dakonburgers/static/js/main.ed663a80.chunk.js.map",
+    "main.js": "/app-dakonburgers/static/js/main.973f182c.chunk.js",
+    "main.js.map": "/app-dakonburgers/static/js/main.973f182c.chunk.js.map",
     "runtime-main.js": "/app-dakonburgers/static/js/runtime-main.47e2050b.js",
     "runtime-main.js.map": "/app-dakonburgers/static/js/runtime-main.47e2050b.js.map",
     "static/js/2.06bbc2f8.chunk.js": "/app-dakonburgers/static/js/2.06bbc2f8.chunk.js",
@@ -40,6 +40,6 @@
   "entrypoints": [
     "static/js/runtime-main.47e2050b.js",
     "static/js/2.06bbc2f8.chunk.js",
-    "static/js/main.ed663a80.chunk.js"
+    "static/js/main.973f182c.chunk.js"
   ]
 }
