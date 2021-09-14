@@ -1,15 +1,15 @@
 const CartItem = ({ data, delFromCart }) => {
-  let { id, name, price, quantity } = data;
+  let { ID, name, Price, quantity } = data;
 
   return (
     <div style={{ borderBottom: "thin solid gray" }}>
       <h4>{name}</h4>
       <h5>
-        {price} x {quantity} = {price * quantity}
+        {Price} x {quantity} = {Price * quantity}
       </h5>
-      <button onClick={() => delFromCart(id)}>Eliminar Uno</button>
+      <button onClick={() => delFromCart(ID)}>Eliminar Uno</button>
       <br />
-      <button onClick={() => delFromCart(id, true)}>Eliminar Todos</button>
+      <button onClick={() => delFromCart(ID, true)}>Eliminar Todos</button>
       <br />
       <br />
     </div>

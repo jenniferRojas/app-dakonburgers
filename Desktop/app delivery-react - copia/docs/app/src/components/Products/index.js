@@ -12,6 +12,8 @@ import {
   ProductPrice,
   ProductButton
 } from './ProductsElements';
+import accounting from 'accounting'
+
 
 
 const Products = ({ heading, data, useCart }) => {
@@ -26,8 +28,9 @@ const Products = ({ heading, data, useCart }) => {
               <ProductImg src={product.img} alt={product.alt} />
               <ProductInfo>
                 <ProductTitle>{product.name}</ProductTitle>
-                <ProductDesc>{product.Desc}</ProductDesc>
-                <ProductPrice>{product.Price}</ProductPrice>
+                <ProductDesc>{product.Desc}</ProductDesc> 
+
+                <ProductPrice>{accounting.formatMoney(product.Price,'$',0,".")}</ProductPrice>
                 <ProductButton onClick={()=> addToCart(product.ID)}>{product.button }</ProductButton>
               </ProductInfo>
             </ProductCard>
