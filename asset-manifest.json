@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/app-dakonburgers/static/js/main.973f182c.chunk.js",
-    "main.js.map": "/app-dakonburgers/static/js/main.973f182c.chunk.js.map",
-    "runtime-main.js": "/app-dakonburgers/static/js/runtime-main.47e2050b.js",
-    "runtime-main.js.map": "/app-dakonburgers/static/js/runtime-main.47e2050b.js.map",
-    "static/js/2.06bbc2f8.chunk.js": "/app-dakonburgers/static/js/2.06bbc2f8.chunk.js",
-    "static/js/2.06bbc2f8.chunk.js.map": "/app-dakonburgers/static/js/2.06bbc2f8.chunk.js.map",
-    "static/js/3.8ede1433.chunk.js": "/app-dakonburgers/static/js/3.8ede1433.chunk.js",
-    "static/js/3.8ede1433.chunk.js.map": "/app-dakonburgers/static/js/3.8ede1433.chunk.js.map",
+    "main.js": "/app-dakonburgers/static/js/main.987c6626.chunk.js",
+    "main.js.map": "/app-dakonburgers/static/js/main.987c6626.chunk.js.map",
+    "runtime-main.js": "/app-dakonburgers/static/js/runtime-main.24f2164f.js",
+    "runtime-main.js.map": "/app-dakonburgers/static/js/runtime-main.24f2164f.js.map",
+    "static/js/2.d1fa9249.chunk.js": "/app-dakonburgers/static/js/2.d1fa9249.chunk.js",
+    "static/js/2.d1fa9249.chunk.js.map": "/app-dakonburgers/static/js/2.d1fa9249.chunk.js.map",
+    "static/js/3.24b92403.chunk.js": "/app-dakonburgers/static/js/3.24b92403.chunk.js",
+    "static/js/3.24b92403.chunk.js.map": "/app-dakonburgers/static/js/3.24b92403.chunk.js.map",
     "index.html": "/app-dakonburgers/index.html",
-    "static/js/2.06bbc2f8.chunk.js.LICENSE.txt": "/app-dakonburgers/static/js/2.06bbc2f8.chunk.js.LICENSE.txt",
+    "static/js/2.d1fa9249.chunk.js.LICENSE.txt": "/app-dakonburgers/static/js/2.d1fa9249.chunk.js.LICENSE.txt",
     "static/media/CHORI HAMBURGUESA DAKON .5479a2a7.jpg": "/app-dakonburgers/static/media/CHORI HAMBURGUESA DAKON .5479a2a7.jpg",
     "static/media/CHORI PAPA DAKON .0afbe52f.jpg": "/app-dakonburgers/static/media/CHORI PAPA DAKON .0afbe52f.jpg",
     "static/media/CHORI PERRO DAKON.69210751.jpg": "/app-dakonburgers/static/media/CHORI PERRO DAKON.69210751.jpg",
@@ -38,8 +38,8 @@
     "static/media/portadacombos.803ba2d5.jpg": "/app-dakonburgers/static/media/portadacombos.803ba2d5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47e2050b.js",
-    "static/js/2.06bbc2f8.chunk.js",
-    "static/js/main.973f182c.chunk.js"
+    "static/js/runtime-main.24f2164f.js",
+    "static/js/2.d1fa9249.chunk.js",
+    "static/js/main.987c6626.chunk.js"
   ]
 }
